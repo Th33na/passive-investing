@@ -23,11 +23,11 @@ This project uses python 3.9 with the following tools/libraries:
 
 Ensure you have Jupyter and voila installed.
 
-Once the repository is cloned, open a terminal and run:
+Clone this repository, open a terminal and run:
 
 ```voila <relative-path-to-notebook>```
 
-
+[application in action](passive-investing.mov)
 
 ---
 
