@@ -27,7 +27,7 @@ Clone this repository, open a terminal and run:
 
 ```voila <relative-path-to-notebook>```
 
-[application in action](passive-investing.mov)
+[Here](passive-investing.mov) is .mov for the application in action.
 
 ---
 
